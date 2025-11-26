@@ -1,7 +1,4 @@
 
-# \[jazz\]
+# \[Christmas music\]
 <!-- Version 1.0 -->
-\[- [Week 1](week1/)
-- [Week 2](week2/)
-- [Week 3](week3/)
-\]
+\[- I have decided to pick christmas music for my theme as it covers a range of time periods.\]
