@@ -1,16 +1,21 @@
-
-# Jazz music 
-<!-- Version 1.0 -->
-\- I have decided to pick jazz music for my theme as it covers a range of different time periods. My first piece is Afternoon Lounge by Jack Shi.\
-Week2/
-   index.html
-   data/
-      file1.mei
-
 <!DOCTYPE html>
 <html>
 <head>
     <title>MCA Portfolio 2025</title>
+
+    <
+    Jazz music theme
+    Version 1.0
+    I have decided to pick jazz music for my theme as it covers a range of different time periods.
+    My first piece is Afternoon Lounge by Jack Shi.>
+
+    <-- Folder structure:
+    Week2/
+        index.html
+        data/
+            file1.mei
+    -->
+
     <style>
         .nav {
             display: flex;
@@ -34,6 +39,7 @@ Week2/
 </head>
 
 <body>
+
 <h1>MCA PORTFOLIO 2025</h1>
 
 <div class="nav">
@@ -76,8 +82,5 @@ Week2/
 
 </div>
 
-<!-- Version 1.0 -->
-
 </body>
 </html>
-
