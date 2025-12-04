@@ -21,7 +21,7 @@
             display: flex;
             flex-direction: row;
             gap: 10px;
-            max-width: 300px;
+            justify-content: center
         }
         .button {
             display: block;
