@@ -19,7 +19,7 @@
     <style>
         .nav {
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
             gap: 10px;
             max-width: 300px;
         }
