@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MCA Portfolio 2025</title>
+    <title>Music Curation and Analysis Portfolio 2025</title>
 
     <
     Jazz music theme
@@ -40,7 +40,7 @@
 
 <body>
 
-<h1>MCA PORTFOLIO 2025</h1>
+<h1>Weeks</h1>
 
 <div class="nav">
 
