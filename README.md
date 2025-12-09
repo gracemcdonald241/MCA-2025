@@ -7,8 +7,6 @@
     <!-- 
     Jazz music theme
     Version 1.0
-    Theme: Jazz music, covering different time periods.
-    First piece: Afternoon Lounge by Jack Shi
     Folder structure:
     tasks/
         week1.html
@@ -20,7 +18,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 1000px;
+            max-width: 900px;
             margin: auto;
             padding: 20px;
         }
@@ -30,18 +28,19 @@
         .nav {
             display: flex;
             flex-wrap: wrap;
-            gap: 10px;
+            gap: 15px;
             justify-content: center;
-            margin-bottom: 40px;
+            margin-top: 30px;
         }
         .button {
             display: block;
-            padding: 10px 15px;
+            padding: 12px 20px;
             background: #003acc;
             color: white;
             text-decoration: none;
             border-radius: 6px;
             text-align: center;
+            font-weight: bold;
         }
         .button:hover {
             background: #005fa3;
@@ -54,14 +53,20 @@
 <h1>Weeks</h1>
 
 <div class="nav">
-    <a href="tasks/week1.html" class="button">1 - Basics of music data</a>
-    <a href="tasks/week2.html" class="button">2 - Music as notation</a>
-    <a href="tasks/week3.html" class="button">3 - Encoding basics for notation</a>
-    <a href="tasks/week4.html" class="button">4 - Computational analytics of notated music</a>
-    <a href="tasks/week5.html" class="button">5 - Standards in curation</a>
-    <a href="tasks/week7.html" class="button">7 - Challenges to music curation</a>
-    <a href="tasks/week8.html" class="button">8 - Music as sound</a>
-    <a href="tasks/week9.html" class="button">9 - Analysing and extracting data from audio</a>
+    <a href="tasks/week1.html" class="button">Week 1 - Basics of Music Data</a>
+    <a href="tasks/week2.html" class="button">Week 2 - Music as Notation</a>
+    <a href="tasks/week3.html" class="button">Week 3 - Encoding Basics for Notation</a>
+    <a href="tasks/week4.html" class="button">Week 4 - Computational Analytics of Notated Music</a>
+    <a href="tasks/week5.html" class="button">Week 5 - Standards in Curation</a>
+    <a href="tasks/week7.html" class="button">Week 7 - Challenges to Music Curation</a>
+    <a href="tasks/week8.html" class="button">Week 8 - Music as Sound</a>
+    <a href="tasks/week9.html" class="button">Week 9 - Analysing and Extracting Data from Audio</a>
+    <a href="tasks/week10.html" class="button">Week 10 - Audio Similarity & Transcription</a>
+</div>
+
+</body>
+</html>
+
     <a href="tasks/week10.html" class="button">10 - Audio similarity & transcription</a>
 </div>
 
