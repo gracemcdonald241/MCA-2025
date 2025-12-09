@@ -67,8 +67,3 @@
 </body>
 </html>
 
-    <a href="tasks/week10.html" class="button">10 - Audio similarity & transcription</a>
-</div>
-
-</body>
-</html>
