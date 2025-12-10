@@ -28,13 +28,13 @@
         .nav {
             display: flex;
             flex-wrap: wrap;
-            gap: 15px;
+            gap: 10px;
             justify-content: center;
             margin-top: 30px;
         }
         .button {
             display: block;
-            padding: 12px 20px;
+            padding: 10px 16px;
             background: #003acc;
             color: white;
             text-decoration: none;
