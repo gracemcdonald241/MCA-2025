@@ -58,6 +58,6 @@
 
 <h2>Jazz</h2>
 <p>
-    This portfolio follows a jazz-inspired theme, reflecting the creativity, structure, and improvisation at the core of the Music Curation and Analysis module. Each week explores a different angle of how music can be encoded, analysed, and understood. I thought jazz would be a useful one to chose as you can find old archives and modern interpretations, 
+    This portfolio follows a jazz theme. Each week explores a way in which music can be encoded and analysed. I thought jazz would be a useful theme as it covers range of timer periods and it often quite easy to find in archives online. However, throughout my portfolio i have mainly refered to the piece Afternoon Lounge by Jack Shi to maintain consistency and easily compare different curation techniques.
 </p>
 
