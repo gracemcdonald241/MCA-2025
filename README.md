@@ -42,7 +42,7 @@
 <h1>Weeks</h1>
 
 <div class="nav">
-    <a href="README.md" class="button">Home</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/" class="button">Home</a>
     <a href="tasks/week2.html" class="button">Week 2 - Music as Notation</a>
     <a href="verovio.html" class="button">Week 3 - Encoding Basics for Notation</a>
     <a href="tasks/week4.html" class="button">Week 4 - Computational Analytics of Notated Music</a>
