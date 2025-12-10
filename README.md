@@ -54,7 +54,8 @@
 
 <div class="nav">
     <a href="tasks/week2.html" class="button">Week 2 - Music as Notation</a>
-    <a href="tasks/week3.html" class="button">Week 3 - Encoding Basics for Notation</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/verovio.html" class="button" target="_blank">
+    Week 3 - Encoding Basics for Notation</a>
     <a href="tasks/week4.html" class="button">Week 4 - Computational Analytics of Notated Music</a>
     <a href="tasks/week5.html" class="button">Week 5 - Standards in Curation</a>
     <a href="tasks/week7.html" class="button">Week 7 - Challenges to Music Curation</a>
