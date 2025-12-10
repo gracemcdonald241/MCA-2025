@@ -66,3 +66,8 @@
 </body>
 </html>
 
+<h2>Jazz</h2>
+<p>
+    This portfolio follows a jazz-inspired theme, reflecting the creativity, structure, and improvisation at the core of the Music Curation and Analysis module. Each week explores a different angle of how music can be encoded, analysed, and understood. I thought jazz would be a useful one to chose as you can find old archives and modern interpretations, 
+</p>
+
