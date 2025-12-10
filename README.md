@@ -53,7 +53,6 @@
 <h1>Weeks</h1>
 
 <div class="nav">
-    <a href="tasks/week1.html" class="button">Week 1 - Basics of Music Data</a>
     <a href="tasks/week2.html" class="button">Week 2 - Music as Notation</a>
     <a href="tasks/week3.html" class="button">Week 3 - Encoding Basics for Notation</a>
     <a href="tasks/week4.html" class="button">Week 4 - Computational Analytics of Notated Music</a>
