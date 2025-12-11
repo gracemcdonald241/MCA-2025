@@ -50,7 +50,7 @@
     <a href="tasks/week8.html" class="button">Week 8 - Music as Sound</a>
     <a href="tasks/week9.html" class="button">Week 9 - Analysing and Extracting Data from Audio</a>
     <a href="tasks/week10.html" class="button">Week 10 - Audio Similarity & Transcription</a>
-</div><img width="1350" height="360" alt="image" src="https://github.com/user-attachments/assets/2c6f2af1-ead7-4216-8ac7-b4fa940b961e" />
+</div>
 
 
 
