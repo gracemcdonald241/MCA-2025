@@ -43,15 +43,16 @@
 
 <div class="nav">
     <a href="https://gracemcdonald241.github.io/MCA-2025/" class="button">Home</a>
-    <a href="tasks/week2.html" class="button">Week 2 - Music as Notation</a>
-    <a href="verovio.html" class="button">Week 3 - Encoding Basics for Notation</a>
-    <a href="tasks/week4.html" class="button">Week 4 - Computational Analytics of Notated Music</a>
-    <a href="tasks/week5.html" class="button">Week 5 - Standards in Curation</a>
-    <a href="tasks/week7.html" class="button">Week 7 - Challenges to Music Curation</a>
-    <a href="tasks/week8.html" class="button">Week 8 - Music as Sound</a>
-    <a href="tasks/week9.html" class="button">Week 9 - Analysing and Extracting Data from Audio</a>
-    <a href="tasks/week10.html" class="button">Week 10 - Audio Similarity & Transcription</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week2.html" class="button">Week 2</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/verovio.html" class="button">Week 3</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week4.html" class="button">Week 4</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week5.html" class="button">Week 5</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week7.html" class="button">Week 7</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week8.html" class="button">Week 8</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week9.html" class="button">Week 9</a>
+    <a href="https://gracemcdonald241.github.io/MCA-2025/week10.html" class="button">Week 10</a>
 </div>
+
 
 </body>
 </html>
